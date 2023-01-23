@@ -2,6 +2,9 @@
 
 This is a python based web scraper program made with love using Python and requests library<br>
 
+# Purpose of this project
+This is a web scraping software/data entry automation software that can access truecar.com website and download and store the information of "Car Company", "Car Model", "Style Name", "Year", "Mileage", "Transmission Type", "Engine", "Fuel Type", "Body Type", "Price", "Link" into excel file accurately without human touch to speed up time
+
 # Software required to run
 
 - Python 3.x
